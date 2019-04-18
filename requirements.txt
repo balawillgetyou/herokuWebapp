@@ -30,8 +30,6 @@ cloudpickle==0.2.1
 clyent==1.2.1
 cntk==2.6
 colorama==0.3.7
-conda==2.1.5
-conda-build==3.15.1
 configobj==5.0.6
 constantly==15.1.0
 contextlib2==0.5.3
